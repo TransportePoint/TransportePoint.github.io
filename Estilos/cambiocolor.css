@@ -1,0 +1,28 @@
+.botonCambiarModo{
+    position: absolute;
+    right: 0px;
+    border: 3px solid #0B472B;
+    padding: 10px;
+}
+/*Clases para el modo con morado y verde*/
+.MoradoVerdeHeader-Mode{
+    background-color: #FFFFFF;
+}
+.MoradoVerdeBody-Mode{
+    background-color: #FFFFFF;
+}
+.MoradoVerdeBotones-Mode{
+    background-color: #9778A2;
+}
+/*Clases para el modo con gris y azul*/
+.GrisAzulHeader-Mode{
+    background-color: #ffffff;
+    color: #051336;
+}
+.GrisAzulBody-Mode{
+    background-color: #051336;
+    color: #FFFFFF;
+}
+.GrisAzulBotones-Mode{
+    background-color: gray;
+}
